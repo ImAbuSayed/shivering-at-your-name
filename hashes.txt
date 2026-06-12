@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shivering At Your Name
+
+This log tracks the cryptographic history and versioning for the song **Shivering At Your Name** (shivering-at-your-name).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T13:20:40.531883 | `v1` | `1d00c78e0fe5bb62a91cae624d733579d3d409345b06f3b2cabaa022087aa4e5` | `5ed31342a3ac2d3f5ee78547d47ef0260d569dd4bbacc0b36b86d00281735b0c` | `2026-06-12_shivering-at-your-name-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
